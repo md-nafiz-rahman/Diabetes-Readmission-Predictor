@@ -34,3 +34,9 @@ The dataset used represents 10 years of clinical care data (1999-2008) from 130 
 - **Log Transformation**: Applied to skewed numerical features to normalize the data.
 - **Dummy Variables**: Created for categorical columns such as race, gender, and admission/discharge IDs.
 - **Correlation Analysis**: Visualized to understand relationships between features and target variables.
+
+## Authors
+
+- MD Nafiz Rahman (https://github.com/md-nafiz-rahman)
+- Youssef Sadquy (https://github.com/youssefsadquy)
+
